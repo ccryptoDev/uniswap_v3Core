@@ -1,0 +1,15 @@
+artifacts/
+cache/
+crytic-export/
+node_modules/
+typechain/
+
+# git
+/.github
+/.gitattributes
+
+# audit
+audits/
+
+# misc
+bug-bounty.md
